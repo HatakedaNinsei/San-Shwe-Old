@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 -->
  fetch origin ko myay kyit htar ya oo mal
  Fetch ဆိုတာ github web online paw ka pyawn lite tr ko desktop paw mar change ag lote tr
+When I fetch on desktop github, it works real time with Visual Studio.
+
+
