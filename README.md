@@ -10,3 +10,5 @@ Insert gif or link to demo
 
 I am looking for new job 
 Focus on your work 
+
+<img src="https://github.com/favicon.ico" width="48">
