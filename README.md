@@ -18,10 +18,7 @@
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Sanshwe's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=San-Shwe.San-Shwe)
-
-<br />
+<br /><br />
 
 hi, i'm San Shwe, a passionate self-taught full stack web developer and a freelance software engineer from Myanmar. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
@@ -53,7 +50,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!-- START_SECTION:waka -->
 ```text
-TypeScript   9 hrs           █████████████▓░░░░░░░░░░░   54.78 % 
+VisualBasic   9 hrs           █████████████▓░░░░░░░░░░░   54.78 % 
 JavaScript   4 hrs 58 mins   ███████▓░░░░░░░░░░░░░░░░░   30.33 % 
 SCSS         1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 Markdown     25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
@@ -74,8 +71,7 @@ Other        11 mins         ▒░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 - 🌱 &nbsp;I’m currently learning React
 
-<!-- 📈 my github stats -->
-
+![](https://visitor-badge.glitch.me/badge?page_id=San-Shwe.San-Shwe)
 
 
 
