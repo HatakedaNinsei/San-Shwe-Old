@@ -37,19 +37,21 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 **languages and tools:**  
 
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/768px-VB.NET_Logo.svg.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> -->
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code> -->
 
-<!-- 📊 **this week i spent my time on:**
-START_SECTION:waka
+📊 **this week i spent my time on:**
+<!-- START_SECTION:waka -->
 ```text
 TypeScript   9 hrs           █████████████▓░░░░░░░░░░░   54.78 % 
 JavaScript   4 hrs 58 mins   ███████▓░░░░░░░░░░░░░░░░░   30.33 % 
@@ -57,7 +59,7 @@ SCSS         1 hr 40 mins    ██▓░░░░░░░░░░░░░░
 Markdown     25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
-END_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
 <!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
 
@@ -70,7 +72,7 @@ END_SECTION:waka -->
 ✅  Completed 673 tasks so far           
 ⏳  Longest streak is 10 days -->
 <!-- TODO-IST:END -->
-
+- 🌱 &nbsp;I’m currently learning React
 
 <!-- 📈 my github stats -->
 
