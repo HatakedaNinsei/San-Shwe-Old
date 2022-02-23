@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/sanshwe330/">
   <img align="left" alt="Sanshwe's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discordapp.com/users/635485461346910258">
   <img align="left" alt="Sanshwe's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/@_sanshwe_">
