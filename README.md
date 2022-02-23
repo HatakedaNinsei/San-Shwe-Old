@@ -70,7 +70,16 @@ Other        11 mins         ▒░░░░░░░░░░░░░░░░
 ✅  Completed 673 tasks so far           
 ⏳  Longest streak is 10 days -->
 <!-- TODO-IST:END -->
-- 🌱 &nbsp;I’m currently learning React
+<!-- - 🌱 &nbsp;I’m currently learning React -->
+## 🔭 I'm currently working on
+
+- Costing App (VB.Net)
+- Costing App (React)
+
+
+## 🌱 I'm currently learning
+
+- 📱 React Native 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=San-Shwe.San-Shwe)
 
