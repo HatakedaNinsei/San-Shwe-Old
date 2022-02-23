@@ -12,9 +12,9 @@
 <a href="https://twitter.com/@_sanshwe_">
   <img align="left" alt="Sanshwe's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<!-- <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Sanshwe's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a> -->
 <a href="https://open.spotify.com/user/6f6s3zlmzbitfdtdiy9pstvzm">
   <img align="left" alt="Sanshwe's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
