@@ -1,7 +1,7 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 
 <a href="https://www.instagram.com/_sanshwe_/">
-  <img align="left" alt="Sanshwe's Facebook" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png" />
+  <img align="left" alt="Sanshwe's Facebook" width="22px" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" />
 </a>
 <a href="https://www.instagram.com/sanshwe330/">
   <img align="left" alt="Sanshwe's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -10,13 +10,13 @@
   <img align="left" alt="Sanshwe's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/@_sanshwe_">
-  <img align="left" alt="Sanshwe's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Sanshwe's Twitter" width="22px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />
 </a>
 <!-- <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Sanshwe's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> -->
-<a href="https://open.spotify.com/user/6f6s3zlmzbitfdtdiy9pstvzm">
-  <img align="left" alt="Sanshwe's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+<a href="https://avatars.githubusercontent.com/u/251374?s=200&v=4">
+  <img align="left" alt="Sanshwe's Spotify" width="22px" src="https://camo.githubusercontent.com/15d4e1b8bf3ed25b7131cc93f248f86cc42deaf9e19fdb61aa1ba3b46e0400a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f73706f746966792e737667" />
 </a>
 <br /><br />
 
