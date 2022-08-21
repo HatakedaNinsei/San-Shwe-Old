@@ -18,6 +18,10 @@
 <a href="https://avatars.githubusercontent.com/u/251374?s=200&v=4">
   <img align="left" alt="Sanshwe's Spotify" width="22px" src="https://camo.githubusercontent.com/15d4e1b8bf3ed25b7131cc93f248f86cc42deaf9e19fdb61aa1ba3b46e0400a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f73706f746966792e737667" />
 </a>
+
+<a href="https://www.youtube.com/channel/UCkVQFqUEYM-_rH89fWOa2XA">
+  <img align="left" alt="Sanshwe's Youtube" width="25px" src="https://www.svgrepo.com/show/13671/youtube.svg" />
+</a>
 <br /><br />
 
 hi, i'm San Shwe, a passionate self-taught full stack web developer and a freelance software engineer from Myanmar. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
