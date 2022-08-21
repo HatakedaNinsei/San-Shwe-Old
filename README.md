@@ -28,7 +28,7 @@ hi, i'm San Shwe, a passionate self-taught full stack web developer and a freela
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
   
-💼 any freelance work? do reach, <a href="mailto:emersonpess011108@gmail.com?">email</a> :)  
+💼 any freelance work? do reach, <a href="mailto:sanshwe330@gmail.com?">email</a> :)  
 🔍I am looking for new job for better experience and salary  
 ❓ ask me about anything, i am happy to help;  
 
