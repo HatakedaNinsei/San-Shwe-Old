@@ -92,7 +92,7 @@ Other       11 mins       ▒░░░░░░░░░░░░░░░░░
 
 [github_page](https://san-shwe.github.io/financial-calculator/)
 
-## GitHub Friends 🤝 :octocat:	
+#### :octocat: GitHub Friends 🤝 	
 <table>
   <tr>
     <td align="center"><a href="https://github.com/hanpainghtoo"><img src="https://avatars.githubusercontent.com/u/89374878?v=4" width="40px;" alt=""/></td>
