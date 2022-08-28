@@ -24,17 +24,17 @@
 </a>
 <br /><br />
 
-hi, i'm San Shwe, a passionate self-taught full stack web developer and a freelance software engineer from Myanmar. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm San Shwe, a passionate self-taught full-stack web developer and a freelance software engineer from Myanmar. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience, architecture, and code quality of the things I build.
 
 <!-- i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source. -->
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+ 
   
 💼 any freelance work? do reach, <a href="mailto:sanshwe330@gmail.com?">email</a> :)  
-🔍I am looking for new job for better experience and salary  
-❓ ask me about anything, i am happy to help;  
+🔍 I am looking for new job for better experience and salary.  
+❓ Ask me about anything, I am happy to help.  
 
 **languages and tools:**  
 
@@ -52,6 +52,7 @@ hi, i'm San Shwe, a passionate self-taught full stack web developer and a freela
 <code><img height="20" src="https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/2097px-Microsoft_Office_Access_%282019-present%29.svg.png"></code>
 
+<br /><br /><br /><br />
 
 📊 **this week i spent my time on:**
 <!-- START_SECTION:waka -->
