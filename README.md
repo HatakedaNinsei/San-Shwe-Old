@@ -95,7 +95,8 @@ Other       11 mins       ▒░░░░░░░░░░░░░░░░░
 #### :octocat: GitHub Friends 🤝 	
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/hanpainghtoo"><img src="https://avatars.githubusercontent.com/u/89374878?v=4" width="40px;" alt=""/></td>
-    <td align="center"><a href="https://github.com/LynnLattYati"><img src="https://avatars.githubusercontent.com/u/108814689?v=4" width="40px;" alt=""/></td>
+    <td align="center"><a href="https://github.com/hanpainghtoo"><kbd><img src="https://avatars.githubusercontent.com/u/89374878?v=4" width="40px;" alt=""/></kbd></td>
+    <td align="center"><a href="https://github.com/LynnLattYati"><kbd><img src="https://avatars.githubusercontent.com/u/108814689?v=4" width="40px;" alt=""/></kbd></td>
+    <td align="center"><a href="https://github.com/Toshikiyk"><kbd><img src="https://avatars.githubusercontent.com/u/75468942?v=4" width="40px;" alt=""/></kbd></td>
   </tr>
 </table>
