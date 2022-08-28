@@ -32,8 +32,8 @@ Hi, I'm San Shwe, a passionate self-taught full-stack web developer and a freela
   <img align="right" alt="GIF" src="https://github.com/San-Shwe/San-Shwe/blob/master/img/code.gif?raw=true" width="500" height="320" />
  
   
-💼 any freelance work? do reach, <a href="mailto:sanshwe330@gmail.com?">email</a> :)  
-🔍 I am looking for new job for better experience and salary.  
+💼 Is there any freelancing available? Please contact me via <a href="mailto:sanshwe330@gmail.com?">email</a> :)  
+🔍 I'm seeking for a new career that will provide me with more experience and pay.  
 ❓ Ask me about anything, I am happy to help.  
 
 **languages and tools:**  
